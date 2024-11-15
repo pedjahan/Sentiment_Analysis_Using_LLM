@@ -1,0 +1,108 @@
+Filename,Transcript,Agent,Technical Support,Member,Claims Review Team,PA Agent,Customer Support,Number of Participants,Character Count,Word Count,Sentence Count,Transcript_chunks,sentiment_score,sentiment_score_explanation,call_outcome,call_outcome_explanation,sentiment_change,sentiment_change_explanation,sentiment_score_explanation_factuality,sentiment_score_explanation_completeness,sentiment_score_consistency,call_outcome_explanation_factuality,call_outcome_explanation_completeness,call_outcome_consistency,sentiment_change_explanation_factuality,sentiment_change_explanation_completeness,sentiment_change_consistency
+transcript_0.txt,"Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM456789.
+
+PA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth for verification purposes?
+
+Member: It's March 12, 1985.
+
+PA Agent: Thank you, Emily. Can you please provide me with some details about the case you're seeking pre-authorization for? What's the nature of the treatment or service you're looking to receive?
+
+Member: I'm scheduled to undergo an MRI scan for a knee injury. My doctor's office has already submitted the request, but I wanted to confirm the status and ensure that it's covered under my plan.
+
+PA Agent: I apologize for the delay, Emily. Let me just check on the status of your request. Can you please hold for just a moment?
+
+Member: Sure, thank you.
+
+PA Agent: Thank you for holding, Emily. I've located your request and I'm reviewing the details now. Can you please confirm the name of your doctor and the facility where the MRI scan is scheduled to take place?
+
+Member: My doctor's name is Dr. Smith and the facility is Oakwood Medical Center.
+
+PA Agent: Thank you, Emily. I've verified the information and I'm checking your eligibility now. Can you please hold for just another moment?
+
+Member: Okay.
+
+PA Agent: Thank you for holding, Emily. I've checked your eligibility and it appears that you do have coverage for the MRI scan under your plan. However, I need to escalate this request to our medical review team for further evaluation.
+
+Member: Okay, what does that mean?
+
+PA Agent: It means that our medical review team will review your case and make a determination regarding pre-authorization. I apologize, but I won't be able to provide a decision today. We'll be in touch with you within the next 3-5 business days to let you know the outcome.
+
+Member: Okay, that sounds good. Can you give me a reference number for this case so I can follow up if needed?
+
+PA Agent: Yes, certainly. Your case number is PA001234. You can use this number to follow up on the status of your request.
+
+Member: Great, thank you for your help.
+
+PA Agent: You're welcome, Emily. We'll be in touch soon. Is there anything else I can assist you with today?
+
+Member: No, that's all. Thank you.
+
+PA Agent: You're welcome. Have a great day.",1,0,1,0,1,0,3,2298,403,43,"[""Member: Hi, I'm calling to get a case pre-authorized. My name is Emily Wilson and my member ID is MEM456789.\n\nPA Agent: Hi Emily, thank you for calling PA customer care. Can you please confirm your date of birth for verification purposes?\n\nMember: It's March 12, 1985.\n\nPA Agent: Thank you, Emily. Can you please provide me with some details about the case you're seeking pre-authorization for? What's the nature of the treatment or service you're looking to receive?\n\nMember: I'm scheduled to undergo an MRI scan for a knee injury. My doctor's office has already submitted the request, but I wanted to confirm the status and ensure that it's covered under my plan.\n\nPA Agent: I apologize for the delay, Emily. Let me just check on the status of your request. Can you please hold for just a moment?\n\nMember: Sure, thank you.\n\nPA Agent: Thank you for holding, Emily. I've located your request and I'm reviewing the details now. Can you please confirm the name of your doctor and the facility where the MRI scan is scheduled to take place?\n\nMember: My doctor's name is Dr. Smith and the facility is Oakwood Medical Center.\n\nPA Agent: Thank you, Emily. I've verified the information and I'm checking your eligibility now. Can you please hold for just another moment?\n\nMember: Okay.\n\nPA Agent: Thank you for holding, Emily. I've checked your eligibility and it appears that you do have coverage for the MRI scan under your plan. However, I need to escalate this request to our medical review team for further evaluation.\n\nMember: Okay, what does that mean?\n\nPA Agent: It means that our medical review team will review your case and make a determination regarding pre-authorization. I apologize, but I won't be able to provide a decision today. We'll be in touch with you within the next 3-5 business days to let you know the outcome.\n\nMember: Okay, that sounds good. Can you give me a reference number for this case so I can follow up if needed?\n\nPA Agent: Yes, certainly. Your case number is PA001234. You can use this number to follow up on the status of your request.\n\nMember: Great, thank you for your help.\n\nPA Agent: You're welcome, Emily. We'll be in touch soon. Is there anything else I can assist you with today?\n\nMember: No, that's all. Thank you.\n\nPA Agent: You're welcome. Have a great day.""]",Positive,"The overall tone of the Member's conversation is positive, as evidenced by phrases such as 'Okay, that sounds good' and 'Great, thank you for your help.' The Member expresses appreciation and satisfaction with the assistance provided, indicating a generally positive sentiment throughout the call.",Follow-up Action Required,"The conversation indicates that the Member's request for pre-authorization is not fully resolved, as it needs to be escalated to the medical review team. The Member acknowledges this and requests a reference number for follow-up, suggesting that further action is required.",No Change,"The Member's sentiment remains consistent throughout the conversation. Initially, the Member expresses a need for information and assistance, and by the end, they are still engaged and appreciative, with no significant shift in emotional tone observed.",5,4,1,5,5,1,5,5,1
+transcript_1.txt,"Member: Hi, I'm calling about a denied claim I received for my recent medical service. I was told that my policy doesn't cover it, but I'm certain it should be covered under my new policy. My member ID is MEM123456.
+
+Customer Support: I apologize for the inconvenience, MEM123456. Can you please provide me with more information about the denied claim, such as the claim number and the date of service?
+
+Member: The claim number is CLM789012, and the date of service was February 10th.
+
+Customer Support: Thank you for providing that information. I've located your claim in our system. Can you tell me more about the new policy you're referring to? When did you switch policies?
+
+Member: I switched policies on January 1st. I was told that the new policy would cover the service I received, but the denial letter says it's not covered.
+
+Customer Support: I understand your concern. Let me check on the status of your policy update in our system. (pause) I apologize, but it appears that your new policy has not been updated in our system. This is likely the reason why your claim was denied.
+
+Member: That's frustrating. How can we get this resolved?
+
+Customer Support: I'm going to go ahead and connect you with our policy update team. They'll be able to assist in updating your policy and reprocessing your claim. Please hold for just a moment.
+
+(pause)
+
+Customer Support: You're now connected with our policy update team. They'll take care of updating your policy and getting your claim approved. Is there anything else I can assist you with in the meantime?
+
+Member: No, that's all. Thank you for your help.
+
+Customer Support: You're welcome, MEM123456. We apologize again for the mistake and appreciate your patience. The policy update team will be in touch with you shortly to confirm the status of your claim.
+
+Member: Thank you.
+
+Customer Support: You're welcome. Have a great day.
+
+Call duration: 9 minutes",0,0,1,0,0,1,2,1915,325,32,"[""Member: Hi, I'm calling about a denied claim I received for my recent medical service. I was told that my policy doesn't cover it, but I'm certain it should be covered under my new policy. My member ID is MEM123456.\n\nCustomer Support: I apologize for the inconvenience, MEM123456. Can you please provide me with more information about the denied claim, such as the claim number and the date of service?\n\nMember: The claim number is CLM789012, and the date of service was February 10th.\n\nCustomer Support: Thank you for providing that information. I've located your claim in our system. Can you tell me more about the new policy you're referring to? When did you switch policies?\n\nMember: I switched policies on January 1st. I was told that the new policy would cover the service I received, but the denial letter says it's not covered.\n\nCustomer Support: I understand your concern. Let me check on the status of your policy update in our system. (pause) I apologize, but it appears that your new policy has not been updated in our system. This is likely the reason why your claim was denied.\n\nMember: That's frustrating. How can we get this resolved?\n\nCustomer Support: I'm going to go ahead and connect you with our policy update team. They'll be able to assist in updating your policy and reprocessing your claim. Please hold for just a moment.\n\n(pause)\n\nCustomer Support: You're now connected with our policy update team. They'll take care of updating your policy and getting your claim approved. Is there anything else I can assist you with in the meantime?\n\nMember: No, that's all. Thank you for your help.\n\nCustomer Support: You're welcome, MEM123456. We apologize again for the mistake and appreciate your patience. The policy update team will be in touch with you shortly to confirm the status of your claim.\n\nMember: Thank you.\n\nCustomer Support: You're welcome. Have a great day.\n\nCall duration: 9 minutes""]",Negative,"The Member expressed frustration regarding the denied claim and the lack of coverage under their new policy. Phrases like 'that's frustrating' indicate dissatisfaction with the situation, contributing to an overall negative sentiment throughout the conversation.",Follow-up Action Required,"The Member's issue was not resolved during the call, as they were informed that their policy had not been updated, leading to the claim denial. The conversation ended with the Member being connected to another team for further assistance, indicating that follow-up action is necessary.",No Change,"The Member's sentiment remained consistently negative throughout the conversation. While there was an acknowledgment of the issue and a promise of further assistance, the initial frustration did not improve or decline, as evidenced by their consistent expressions of dissatisfaction.",5,4,1,5,5,1,5,4,1
+transcript_2.txt,"Member: Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy covered that service with a $20 copay.
+
+Customer Support: I apologize for the inconvenience, Mr. Johnson. Can you please provide me with your member ID so I can look into this further?
+
+Member: It's MEM456789.
+
+Customer Support: Thank you, Mr. Johnson. I've located your account. Can you please confirm the date of the doctor's visit and the service that was provided?
+
+Member: It was on February 10th, and it was a routine physical exam.
+
+Customer Support: Okay, I've located the claim. It looks like the copay amount was indeed $50. However, I'm going to check on the policy details to see if there was an error.
+
+Member: Yeah, because my policy says that routine physical exams have a $20 copay or sometimes no copay at all.
+
+Customer Support: I understand your concern, Mr. Johnson. I'm checking on the policy details... (pause) Okay, I've checked, and it looks like there might have been an error in the copay amount. However, I need to escalate this to our claims department to investigate further.
+
+Member: Okay, that sounds good. How long will it take to resolve this?
+
+Customer Support: Typically, it takes 3-5 business days to investigate and resolve these types of issues. I'll go ahead and open a case for you, and someone from our claims department will be in touch with you to provide an update.
+
+Member: Alright, that sounds good. Can I get a reference number for the case?
+
+Customer Support: Yes, the case number is #CAS012345. You can use that to reference the case when you speak with our claims department.
+
+Member: Okay, got it. Thank you for your help.
+
+Customer Support: You're welcome, Mr. Johnson. We'll be in touch soon to provide an update on your case.
+
+Member: Alright, thanks.
+
+Customer Support: Is there anything else I can assist you with today?
+
+Member: No, that's all.
+
+Customer Support: Okay, Mr. Johnson. Have a great day.
+
+Member: You too, thanks.
+
+Customer Support: Goodbye.",0,0,1,0,0,1,2,2021,345,43,"[""Member: Hi, I'm calling about my recent doctor's visit. I was charged a copay of $50, but I thought my policy covered that service with a $20 copay.\n\nCustomer Support: I apologize for the inconvenience, Mr. Johnson. Can you please provide me with your member ID so I can look into this further?\n\nMember: It's MEM456789.\n\nCustomer Support: Thank you, Mr. Johnson. I've located your account. Can you please confirm the date of the doctor's visit and the service that was provided?\n\nMember: It was on February 10th, and it was a routine physical exam.\n\nCustomer Support: Okay, I've located the claim. It looks like the copay amount was indeed $50. However, I'm going to check on the policy details to see if there was an error.\n\nMember: Yeah, because my policy says that routine physical exams have a $20 copay or sometimes no copay at all.\n\nCustomer Support: I understand your concern, Mr. Johnson. I'm checking on the policy details... (pause) Okay, I've checked, and it looks like there might have been an error in the copay amount. However, I need to escalate this to our claims department to investigate further.\n\nMember: Okay, that sounds good. How long will it take to resolve this?\n\nCustomer Support: Typically, it takes 3-5 business days to investigate and resolve these types of issues. I'll go ahead and open a case for you, and someone from our claims department will be in touch with you to provide an update.\n\nMember: Alright, that sounds good. Can I get a reference number for the case?\n\nCustomer Support: Yes, the case number is #CAS012345. You can use that to reference the case when you speak with our claims department.\n\nMember: Okay, got it. Thank you for your help.\n\nCustomer Support: You're welcome, Mr. Johnson. We'll be in touch soon to provide an update on your case.\n\nMember: Alright, thanks.\n\nCustomer Support: Is there anything else I can assist you with today?\n\nMember: No, that's all.\n\nCustomer Support: Okay, Mr. Johnson. Have a great day.\n\nMember: You too, thanks.\n\nCustomer Support: Goodbye.""]",Neutral,"The Member's tone throughout the conversation is primarily factual and focused on resolving the issue. Phrases like 'I was charged a copay of $50' and 'that sounds good' indicate a straightforward approach without strong emotional expressions, suggesting a neutral sentiment overall.",Follow-up Action Required,"The conversation indicates that the Member's issue has not been fully resolved, as it requires escalation to the claims department. The Member's inquiry about the timeline for resolution and request for a case reference number further confirm that follow-up action is necessary.",No Change,"The Member's sentiment remains consistent throughout the conversation. Initially expressing concern about the copay discrepancy, the Member's tone does not shift significantly by the end, as they continue to engage in a factual manner without expressing increased satisfaction or frustration.",5,5,1,5,5,1,5,5,1

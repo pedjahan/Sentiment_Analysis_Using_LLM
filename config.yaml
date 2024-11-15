@@ -1,0 +1,13 @@
+# Configuration file
+
+data_folder: 'transcripts_v3'  # Folder containing the transcript text files
+sentiment_model: 'gpt-4o-mini'  # OpenAI model name for sentiment analysis
+llm_judge_model: 'gpt-4-turbo'  # Openai model name for LLM-as-a-Judge evaluation
+subject_of_interest_participants:
+  - 'Member'
+  - 'Agent'
+  - 'Claims Review Team'
+  - 'Customer Support'
+  - 'PA Agent'
+  - 'Technical Support'
+openai_api_key: 'Insert Your AIP Key here'
